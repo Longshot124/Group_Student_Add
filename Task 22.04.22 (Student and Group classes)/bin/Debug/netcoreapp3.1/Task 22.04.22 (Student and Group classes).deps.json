@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task 22.04.22 (Student and Group classes)/1.0.0": {
+        "runtime": {
+          "Task 22.04.22 (Student and Group classes).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task 22.04.22 (Student and Group classes)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

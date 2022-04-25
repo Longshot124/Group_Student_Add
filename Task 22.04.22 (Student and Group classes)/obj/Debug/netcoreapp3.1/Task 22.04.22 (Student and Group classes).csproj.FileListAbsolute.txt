@@ -1,0 +1,14 @@
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\bin\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).exe
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\bin\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).deps.json
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\bin\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).runtimeconfig.json
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\bin\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).runtimeconfig.dev.json
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\bin\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).dll
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\bin\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).pdb
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\obj\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).csproj.AssemblyReference.cache
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\obj\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\obj\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).AssemblyInfoInputs.cache
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\obj\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).AssemblyInfo.cs
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\obj\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).csproj.CoreCompileInputs.cache
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\obj\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).dll
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\obj\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).pdb
+C:\Users\kamra\source\repos\Task 22.04.22 (Student and Group classes)\Task 22.04.22 (Student and Group classes)\obj\Debug\netcoreapp3.1\Task 22.04.22 (Student and Group classes).genruntimeconfig.cache
