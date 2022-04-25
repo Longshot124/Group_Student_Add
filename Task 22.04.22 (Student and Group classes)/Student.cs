@@ -13,6 +13,12 @@ namespace Task_22._04._22__Student_and_Group_classes_
         {
             Name = name;
             Surname = surname;
+
+            
+        }
+        public Student()
+        {
+
         }
     }
     
